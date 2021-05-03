@@ -1,0 +1,46 @@
+body{
+	font-style:italic;
+	background-color: mediumturquoise;
+}
+
+#button:hover {
+	
+	background-color: #2339b1; 
+	color: white;
+  }
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#output
+{
+background: rgb(255, 255, 255);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	color:navy;
+	font-weight: bolder;
+}
+h2,h3{
+	font-weight: bold;
+	color:firebrick;
+}
+
+h5{
+	color:white;
+}
