@@ -1,0 +1,3 @@
+document.getElementById("player_question").innerHTML="Question_Turn : " + player1_name;
+
+    document.getElementById("player1").innerHTML= player1_name.toUpperCase() +" : ";
